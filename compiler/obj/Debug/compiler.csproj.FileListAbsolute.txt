@@ -1,0 +1,38 @@
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.exe.config
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.exe
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\bin\Debug\compiler.pdb
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.csprojResolveAssemblyReference.cache
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.Form1.resources
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.Properties.Resources.resources
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.csproj.GenerateResource.Cache
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.exe
+c:\users\en.maher alyamany\documents\visual studio 2015\Projects\compiler\compiler\obj\Debug\compiler.pdb
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\compiler.exe.config
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.exe
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.pdb
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\compiler.exe
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\compiler.pdb
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\mscorlib.dll
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\System.Net.Http.dll
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\System.Net.Http.xml
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\normidna.nlp
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\normnfc.nlp
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\normnfd.nlp
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\normnfkc.nlp
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\bin\Debug\normnfkd.nlp
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.csprojResolveAssemblyReference.cache
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.Form1.resources
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.Properties.Resources.resources
+E:\مستوى ثالث\First Term\Compilers\compiler\compiler\obj\Debug\compiler.csproj.GenerateResource.Cache
+E:\الجامعة\Level3\First Term\Compilers\compiler\compiler\bin\Debug\compiler.exe.config
+E:\الجامعة\Level3\First Term\Compilers\compiler\compiler\obj\Debug\compiler.exe
+E:\الجامعة\Level3\First Term\Compilers\compiler\compiler\obj\Debug\compiler.pdb
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\bin\Debug\compiler.exe.config
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.exe
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.pdb
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\bin\Debug\compiler.exe
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\bin\Debug\compiler.pdb
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.csprojResolveAssemblyReference.cache
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.Form1.resources
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.Properties.Resources.resources
+E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.csproj.GenerateResource.Cache
