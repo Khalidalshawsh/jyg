@@ -36,3 +36,6 @@ E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\comp
 E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.Form1.resources
 E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.Properties.Resources.resources
 E:\مستوي الثلاث\خليل النهاري\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.csproj.GenerateResource.Cache
+D:\الاول ثالث  الترم le3-1nd Semester -Helmi Murad 2020\مترجمات\Compilers\compiler\compiler\bin\Debug\compiler.exe.config
+D:\الاول ثالث  الترم le3-1nd Semester -Helmi Murad 2020\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.exe
+D:\الاول ثالث  الترم le3-1nd Semester -Helmi Murad 2020\مترجمات\Compilers\compiler\compiler\obj\Debug\compiler.pdb
